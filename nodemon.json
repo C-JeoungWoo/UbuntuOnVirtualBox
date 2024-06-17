@@ -1,0 +1,4 @@
+{
+    "watch": ["etri_nodejs"],
+    "exec": "node etri_nodejs/app.js"
+}
